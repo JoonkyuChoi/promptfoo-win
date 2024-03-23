@@ -1,3 +1,19 @@
+### <font color="#FF5733">Windows 버전 구축</font>
+
+본 저장소는 [promptfoo](https://github.com/promptfoo/promptfoo)의 소스 코드를 Windows 환경에서, 개인의 AI 연구를 목적으로 구축하여, 사용할 목적으로 제작되었습니다.<br/>
+본 저장소는 어디까지나 개인에 [학습/연구] 용으로 [운영/관리] 하기에, 개인의 사정으로 삭제되거나, 작업이 지연될 수 있음을 인지하셔야 합니다.<br/>
+원조 저작자의 [라이센스](./LICENSE)를 상세하게 살펴본 후, 본 저작물을 인용 시, 관련 출판물에 적용할 <font color="#FF5733">요구사항</font>을 숙지하셔야 합니다.
+
+#### Windows 로컬에서 소스코드 빌드/실행
+로컬에서 소스 코드를 직접 빌드하여 실행시키려면, [개발자용](./dev-refernce.md) 문서를 참조하세요.<br/>
+원조 저작물은 `linux` 환경으로 설정되어, `windows` 환경에 맞추어 코드를 수정하였습니다.<br/>
+windows 환경에서 개발할 것이 아니라면, 원조 저작자의 [저장소](https://github.com/promptfoo/promptfoo)를 자신의 GitHub로 [Fork](https://github.com/promptfoo/promptfoo/fork)하여, 사용하시길 바랍니다.
+
+#### 저에게 연락
+Windows 버전에 문의가 있으신 분은 <a href="mailto:osoi@naver.com">이메일</a>을 이용해 주세요.<br/>
+
+----------------------------------
+
 # promptfoo: test your LLM app
 
 [![npm](https://img.shields.io/npm/v/promptfoo)](https://npmjs.com/package/promptfoo)
