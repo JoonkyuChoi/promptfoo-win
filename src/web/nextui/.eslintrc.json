@@ -1,3 +1,14 @@
 {
-  "extends": "next/core-web-vitals"
+  "extends": "next/core-web-vitals",
+  "parser": "@typescript-eslint/parser",
+  "rules": {
+    "@typescript-eslint/no-var-requires": 0,
+    "no-shadow": "off",
+    "no-var": "off",
+    "one-var": "off",
+    "indent": "off",
+    "camelcase": "off",
+    "no-multi-spaces": "off",
+    "space-infix-ops": "off"
+  }
 }

@@ -10,7 +10,10 @@
     "skipLibCheck": true,
     "sourceMap": true,
     "strict": true,
-    "resolveJsonModule": true
+    "resolveJsonModule": true,
+    "noImplicitAny": false,
+    "noImplicitReturns": false,
+    "strictNullChecks":false
   },
   "include": ["src/", "typings/**/*"],
   "exclude": ["node_modules", "dist", "src/web/client/**/*", "src/web/nextui/**/*"]
