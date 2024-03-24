@@ -38,7 +38,7 @@ windows 환경에서 개발할 것이 아니라면, 원조 저작자의 [저장�
 
 (2) 종속성 설치
 ```
-> cd ./promptfoo
+> cd ./promptfoo-win
 > npm i
 ```
 
@@ -48,7 +48,7 @@ windows 환경에서 개발할 것이 아니라면, 원조 저작자의 [저장�
   - info Creating an optimized production build .잘못된 경로
   0개 파일이 복사되었습니다.
   npm ERR! code 4
-  npm ERR! path E:\Study\Rust\repos\AI\3.Prompter\Tools\promptfoo
+  npm ERR! path E:\Study\Rust\repos\AI\3.Prompter\Tools\promptfoo-win
   npm ERR! command failed
   npm ERR! command C:\windows\system32\cmd.exe /d /s /c npm run install:nextui && npm run build:clean && npm run build
 
